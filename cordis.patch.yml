@@ -1,0 +1,4 @@
+# Base64 文件（dsh-base64-file）bundle patch：作为 profile 的一层 patch，插入本插件的加载行。
+- insert:
+    - id: base64-file
+      name: 'dsh-base64-file'
